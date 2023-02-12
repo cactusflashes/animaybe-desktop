@@ -1,0 +1,48 @@
+body { 
+    background-color: #f2f1e9;
+    margin: 0;
+    display: flex;
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-family: "big-caslon-fb", serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #11402f;
+    font-size: 40vw;
+}
+
+.anH {
+    text-align: center;
+    display: flex;
+    position: absolute;
+    bottom: 90vw;
+}
+
+.imH {
+    text-align: center;
+    display: flex;
+    position: absolute;
+    bottom: 50vw;
+}
+
+.ayH {
+    text-align: center;
+    display: flex;
+    position: absolute;
+    bottom: 10vw; 
+}
+
+.beH {
+    text-align: center;
+    display: flex;
+    position: absolute;
+    bottom: -30vw;    
+}
+
+.hidden {
+    display: none;
+}
