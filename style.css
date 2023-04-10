@@ -1,0 +1,50 @@
+h1 {
+    position: absolute;
+    top: 12vw;
+    left: 40vw;
+    font-family: 'poppins'; 
+    font-weight: 700;
+    font-size: 6vw;
+}
+
+h2 { 
+    position: absolute;
+    top: -4vw;
+    left: 4vw;
+    font-family: 'Crimson Text';
+    font-size: 6vw;
+    font-style: italic;
+}
+
+h3 { 
+    position: absolute;
+    top: 6vw;
+    left: 5vw;
+    font-family: 'poppins', 'sans-serif'; 
+    font-weight: 100;
+    font-size: 1.5vw;
+}
+
+p { 
+    position: absolute;
+    top: 23vw;
+    left: 41vw;
+    font-family: 'poppins'; 
+    font-weight: 100; 
+    font-size: 1.7vw;
+    max-width: 30%;
+}
+
+.whoops { 
+    position: absolute; 
+    top: 10vw;
+    left: 2vw;
+    max-width: 35%;
+}
+
+.qr { 
+    position: absolute; 
+    top: 20vw;
+    right: 8vw;
+    max-width: 15%;
+}
